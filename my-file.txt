@@ -1,0 +1,21 @@
+Libro 1
+
+Titolo: Libro-1
+Numero pagine: 120
+Autore: Autore-1
+Editore: Editore-1
+-----------------------------
+Libro 2
+
+Titolo: Libro-2
+Numero pagine: 37
+Autore: Autore-2
+Editore: Editore-2
+-----------------------------
+Libro 3
+
+Titolo: Libro-3
+Numero pagine: 49
+Autore: Autore-3
+Editore: Editore-3
+-----------------------------
